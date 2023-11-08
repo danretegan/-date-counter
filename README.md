@@ -1,1 +1,1 @@
-# -date-counter
+# date-counter
