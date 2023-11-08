@@ -4,8 +4,11 @@ body {
     height: 200vh;
 }
 
-p {
+#time {
     font-size: 50px;
+    border: 2px solid red;
+    border-radius: 15px;
+    padding: 10px 20px;
 }
 
 button {

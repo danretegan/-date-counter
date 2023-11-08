@@ -73,4 +73,4 @@ function continueInterval() {
   intervalId = setInterval(calculateTimeLeftToNY, 1000);
 }
 
-setTimeout(() => console.log("Timeout"), 0);
+// setTimeout(() => console.log("Timeout"), 0);
